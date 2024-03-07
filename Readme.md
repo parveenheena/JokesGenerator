@@ -4,8 +4,8 @@
 Detailed instructions on how to install, configure, and get the code running.
 
 ```bash
-git clone https://github.com/parveenheena/TaskManager.git
-cd TaskManager
+git clone https://github.com/parveenheena/JokesGenerator.git
+cd JokesGenerator
 
 Backend --> npm install
         --> npm run server
