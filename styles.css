@@ -26,7 +26,7 @@ h1 {
 
 #jokeContainer {
     padding: 20px;
-    border: 2px solid #6c928a;
+    border: 2px solid #92816c;
     border-radius: 10px;
     background-color: #e6f2eb;
     margin-bottom: 20px;
@@ -43,7 +43,7 @@ h1 {
 }
 
 button {
-    background-color: #4caf50;
+    background-color: #663b14;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -54,7 +54,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #a07145;
 }
 
 button:focus {
